@@ -1,7 +1,7 @@
 ---
-title: "Title"
+title: "Causes of Internal Migration in Turkey"
 author: 
-  - Last Name, First Name[^1]
+  - Gelir, Hacer[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa.csl
 header-includes:
@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== FOOTNOTES ============================== -->
 <!-- ======================================================================= -->
-[^1]: Student ID, [Github Repo](https://github.com/YOUR_USER_NAME_HERE/YOUR_REPO_NAME_HERE)
+[^1]: 20080484, [Github Repo](https://github.com/hacergelir7/Midterm)
 
 # Important Information About Midterm
 
@@ -45,15 +45,22 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 \colorbox{WildStrawberry}{Read the README.md file in the project folder for more information.}
 
 # Introduction
-This outline has been created to assist you in writing your project assignment. You should cite all the sources you use, articles, presentations, projects, etc. Quoting and referencing gives readers the opportunity to access the resources you refer. **Even though you use your own words, if you are conveying the ideas of others in your work, you have to document the source of these ideas. Otherwise, you are committing academic plagiarism.** For example, you can refer to @aydinonat:2007 for academic writing rules. You can find lots of online resources on this topic.
 
-The sections in your project assignment must necessarily include the sections in this text (except the first section, of course). Apart from the sections used here, you can use different subsections. When writing your project, use this file as a draft and adapt its content to your purposes.
+With the earthquake disaster experienced in recent days, the population in the provinces located in the earthquake zone has become a hot topic. The high population density of our city, which has a high risk of earthquakes such as Istanbul, Izmir and Kocaeli, has led the state and large companies to take action.
 
-In this section, mention the purpose and importance of your work in a few paragraphs.
+Internal migration is the main reason why some cities host more population than others. Internal migration causes many desirable and undesirable situations within the country. States have followed different policies in this regard at different times.
+
+In this study, we will talk about the concept of internal migration, its causes, consequences and possible suggestions, and we will make use of the 2018-2021 Inter-Provincial Migration data shared by TUIK while talking about the reasons for migration.
 
 ## Literature Review
 
-In this section, discuss the articles you have read on the subject by giving references. This is a narrative citation @chang:2013. This one is a parenthetical citation [@chang:2013]. **Do not summarize each article individually under a separate title.** In the literature review section, **at least four** articles must be cited [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
+Migration and internal migration are phenomena as old as human history. Causes such as war, famine and thirst are the reasons for people to migrate in the past [@shaohua:2005]. Today, besides these basic reasons, there are also some reasons brought by modern life. These can be counted as urbanization, unemployment, the desire to increase the level of welfare, access to education and most importantly, globalization.
+
+Migration in our country gained momentum after 1950 and the direction of migration is generally from rural to urban [@sen:2014]. The people living in the countryside and engaged in agriculture suffer from inefficient irrigation, agricultural machinery, global warming, etc. and for these reasons, they could not get as much efficiency from the land as before and could not make a living. For this reason, they started to work as factory workers or low-qualified service sector workers in the big cities of Turkey and European countries [@bostan:2017]. Although European countries employed these migrant workers within the framework of certain rules and distributed them to accommodation places, Turkey could not achieve this and became increasingly irregularly urbanized. At the same time, the rate of unregistered workers has increased and workers have not been educated about their union rights and few of them have been able to use these rights.
+
+Industrial society and the economic development thanks to it have caused internal migration in other countries as well as in our country. One of them is China. In China, as in our country, it has been tried to deal with irregular urbanization and its problems for a long time.
+
+The most effective way to combat internal migration is to have equal job opportunities all over the country, in addition to public services such as education, health and transportation, which can be accessed under equal conditions throughout the country [@tacskesen:2017].
 
 
 
